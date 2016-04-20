@@ -1,0 +1,11 @@
+
+customer/invitations/test_customer_save.json
+customer_invitations/sorted_filtered_customers.json
+
+# From GitHub's Python flavoured gitignore:
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+.DS_Store
